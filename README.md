@@ -1,2 +1,2 @@
 # elk-with-plugins
-ELK stack with plugins installed
+ELK stack with logstash-filter-date plugin
